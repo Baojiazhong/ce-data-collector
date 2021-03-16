@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "wiener_dl.h": "c",
+        "mutex": "cpp"
+    }
+}
